@@ -31,6 +31,13 @@ Arduino Display Program for GoodDisplay 5.83" E-Paper Displays &amp; Wemos lolin
     - display.fillScreen(GxEPD_WHITE); 
     - display.display();
 
+- Rotation
+    - display.setRotation(0); -> Horizontal (Head = up)
+    - display.setRotation(1); -> Vertical (Head = right)
+    - display.setRotation(2); -> Horizontal (Head = bottom)
+    - display.setRotation(3); -> Vertical (Head = left)
+    - display.setRotation(4); -> ?
+
 
 ## Reference
 - https://github.com/ZinggJM/GxEPD2
