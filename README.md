@@ -34,4 +34,5 @@ Arduino Display Program for GoodDisplay 5.83" E-Paper Displays &amp; Wemos lolin
 
 ## Reference
 - https://github.com/ZinggJM/GxEPD2
+- https://forum.arduino.cc/t/help-with-waveshare-epaper-display-with-adafruit-huzzah32-esp32-feather-board/574300/2
 
