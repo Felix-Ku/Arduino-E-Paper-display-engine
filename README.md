@@ -36,7 +36,6 @@ Arduino Display Program for GoodDisplay 5.83" E-Paper Displays &amp; Wemos lolin
     - display.setRotation(1); -> Vertical (Head = right)
     - display.setRotation(2); -> Horizontal (Head = bottom)
     - display.setRotation(3); -> Vertical (Head = left)
-    - display.setRotation(4); -> ?
 
 
 ## Reference
